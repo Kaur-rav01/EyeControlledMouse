@@ -1,5 +1,5 @@
 # EyeControlledMouse
-# Eye-Controlled Mouse Using OpenCV 🖱️👀
+## Eye-Controlled Mouse Using OpenCV 🖱️👀
 
 ## Overview
 ### This project implements an Eye-Controlled Mouse using OpenCV.It allows users to control the mouse cursor using eye movements and perform clicks through blink detection. This can be useful as an assistive technology for individuals with disabilities or for hands-free computer interaction.
